@@ -24,5 +24,5 @@ $$
 
 #### Links
 
-- [Youtube]()
+- [Youtube](https://www.youtube.com/watch?v=Lb9nFiYri6o)
 - [Geogebra](https://www.geogebra.org/calculator/wxzwaeuz)
