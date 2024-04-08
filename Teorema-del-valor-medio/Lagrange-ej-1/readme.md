@@ -12,6 +12,10 @@ $$
 
 <br>
 
+![Teorema de Lagrange ejemplo 1](Teorema-de-Lagrange-ej-1.svg)
+
+<br>
+
 #### Links
 
 - [Youtube](https://www.youtube.com/watch?v=8VkifqlE6eA)

@@ -22,6 +22,10 @@ $$
 
 <br>
 
+![Teorema de Cauchy ejemplo 1](Teorema-de-Cauchy-ej-1.svg)
+
+<br>
+
 #### Links
 
 - [Youtube](https://www.youtube.com/watch?v=rFLylhq1Npo)

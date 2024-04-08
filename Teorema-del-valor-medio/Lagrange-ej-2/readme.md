@@ -12,7 +12,11 @@ $$
 
 <br>
 
+![Teorema de Lagrange ejemplo 2](Teorema-de-Lagrange-ej-2.svg)
+
+<br>
+
 #### Links
 
 - [Youtube](https://www.youtube.com/watch?v=Z2jbjdW3jvE)
-- [Geogebra](https://www.geogebra.org/calculator/hdbrywkc)
+- [Geogebra](https://www.geogebra.org/calculator/ugtk3ewb)
